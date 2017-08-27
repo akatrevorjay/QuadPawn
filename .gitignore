@@ -1,1 +1,7 @@
 .*~
+
+/Compiler/bin/pawncc
+/Compiler/bin/pawndisasm
+
+*.amx
+
